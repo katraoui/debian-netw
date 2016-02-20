@@ -1,0 +1,26 @@
+{
+  "name": "debian-netw",
+  "version": "0.0.1",
+  "description": "node js network configuration for DEBIAN Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katraoui/debian-netw.git"
+  },
+  "keywords": [
+    "debian",
+    "linux",
+    "network",
+    "node",
+    "js"
+  ],
+  "author": "youness katraoui <katraoui.youness@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katraoui/debian-netw/issues"
+  },
+  "homepage": "https://github.com/katraoui/debian-netw#readme"
+}
